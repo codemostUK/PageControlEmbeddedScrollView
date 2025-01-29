@@ -12,6 +12,8 @@ A `UIPageViewController`-based project that integrates an **accordion-style head
 
 - **Smooth Scrolling Experience** 🎯  
   Handles scroll direction and content offset calculations for seamless navigation.
+  
+  ![animation](Assets/animation.gif)
 
 ## 📂 Project Structure
 
