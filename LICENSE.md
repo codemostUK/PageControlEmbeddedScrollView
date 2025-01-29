@@ -1,2 +1,1 @@
-
-Copyright (C) 2025 shereboy
+Copyright (C) 2025 Codemost
